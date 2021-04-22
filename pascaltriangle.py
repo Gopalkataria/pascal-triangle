@@ -1,5 +1,3 @@
-# To add a new cell, type '# %%'
-# To add a new markdown cell, type '# %% [markdown]'
 # %%
 ## variables to keep storing calculations in memory
 ## so after each calculation is done, it just gets stored in ram for future use
